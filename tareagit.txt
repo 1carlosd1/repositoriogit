@@ -1,0 +1,1 @@
+tarea repositorio git crear dos ramas y tendra un archivo cada una 
